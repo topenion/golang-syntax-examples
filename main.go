@@ -4,7 +4,7 @@
 * NOTE: package main makes executables, other packages are just packages to be used in your program*/
 package main
 
-import "fmt" //
+import "fmt"
 
 var choice int
 
