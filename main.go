@@ -4,10 +4,13 @@
 * NOTE: package main makes executables, other packages are just packages to be used in your program*/
 package main
 
-import "fmt"
-
-var choice int
+//multiline import
+import (
+	"fmt"
+	"github.com/topenion/golang-syntax-examples/declarations"
+)
 
 func main() {
 	fmt.Println("The Main function")
+	declarations.RunDeclarations()
 }
