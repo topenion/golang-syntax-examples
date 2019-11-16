@@ -6,8 +6,6 @@ package main
 
 import "fmt"
 
-var choice int
-
 func main() {
 	fmt.Println("The Main function")
 }
