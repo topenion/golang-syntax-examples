@@ -1,5 +1,4 @@
-//Package declarations :: single : Shows Single Line Assignments and Shows Single Line Declarations
-package declarations
+package main
 
 import "fmt" //single Line Import
 

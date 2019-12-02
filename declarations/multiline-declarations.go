@@ -1,5 +1,4 @@
-//Package declarations :: multiline : tests Zero Values and Shows Multi Line Declarations
-package declarations
+package main
 
 import "fmt"
 
